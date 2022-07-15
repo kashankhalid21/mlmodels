@@ -23,7 +23,7 @@ dask==2.6.0
 databricks-cli==0.9.1
 dataclasses==0.7
 deepctr==0.7.2
-distributed==2.6.0
+distributed==2021.10.0
 docker==4.2.0
 docutils==0.15.2
 entrypoints==0.3
