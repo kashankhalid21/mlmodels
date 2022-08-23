@@ -62,7 +62,7 @@ mlflow==1.6.0
 msgpack==1.0.0
 nltk==3.4.5
 numexpr==2.7.1
-numpy==1.18.1
+numpy==1.22.0
 opt-einsum==3.1.0
 optuna==1.1.0
 pandas==0.25.3
