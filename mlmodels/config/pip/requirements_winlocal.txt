@@ -111,7 +111,7 @@ nltk==3.4.5
 notebook==6.0.3
 numba==0.48.0
 numexpr==2.7.1
-numpy==1.18.1
+numpy==1.22.0
 opt-einsum==3.1.0
 optuna==1.1.0
 packaging==20.3
