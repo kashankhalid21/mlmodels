@@ -1,4 +1,4 @@
-tensorflow<2.0
+tensorflow<3.0
 keras<2.4.0
 #torch==1.4.0+cpu
 numpy
