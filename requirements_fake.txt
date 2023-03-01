@@ -41,7 +41,7 @@ tensorboardX
 
 
 #####Gluon#######################
-mxnet==1.6.0
+mxnet==1.9.1
 gluonts==0.4.2
 pydantic<=1.4  ### issue with DeepAR
 autogluon==0.0.5
