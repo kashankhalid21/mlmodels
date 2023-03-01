@@ -78,7 +78,7 @@ matplotlib==3.2.1
 mlflow==1.7.1
 msgpack==1.0.0
 murmurhash==1.0.2
-mxnet==1.6.0
+mxnet==1.9.1
 networkx==2.4
 nltk==3.4.5
 numexpr==2.7.1
